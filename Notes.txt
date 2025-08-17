@@ -1,0 +1,3 @@
+.env permet de sécuriser les clé d'api de base de donnée ...
+---> peut être ajouté en gitignore pour éviter de le push
+venv\Scripts\activate permet d'entrer dans un environnement virtuel, qui simplifie le transfert sur d'autres machines, avec des versions qui n'interfèrent pas
